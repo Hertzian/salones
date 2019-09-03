@@ -1,0 +1,39 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Bootstrap3
+// @import 'bootstrap3';
+
+// Datetime picker
+@import 'datetimepicker';
+
+// Fontawesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+
+// Fullcalendar
+// @import 'node_modules/fullcalendar/dist/fullcalendar.css';
+@import 'fullcalendar';
+
+// Template mixins
+@import'cards';
+@import'footer';
+@import'global';
+@import'login';
+@import'mixins';
+@import'navbar';
+@import'utilities';
+
+// .navbar-laravel {
+//   background-color: #fff;
+//   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+// }
