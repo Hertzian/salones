@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 bbb7e50499427aa9a7e4bfe1448644004c2e98ba Lalitus <tallitosan@gmail.com> 1547180492 -0600	clone: from https://AquilesB@bitbucket.org/AquilesB/salones.git
+bbb7e50499427aa9a7e4bfe1448644004c2e98ba 3f0ea808ef92f282ab81db6df9e85fe34a641122 Lalitus <tallitosan@gmail.com> 1547381910 -0600	commit: mid work admin
+3f0ea808ef92f282ab81db6df9e85fe34a641122 c4a3d850a37549ab239414e4bbe24ba015d2ca75 Lalitus <tallitosan@gmail.com> 1547528437 -0600	commit: modify tittle
+c4a3d850a37549ab239414e4bbe24ba015d2ca75 8b4bd762358876a9bbf601e614662121d74d215d Lalitus <tallitosan@gmail.com> 1547528761 -0600	commit: modify tittle I
+8b4bd762358876a9bbf601e614662121d74d215d 1fca20d8be05ab21a583ba3528830425617f42ab Lalitus <tallitosan@gmail.com> 1547704843 -0600	commit: finish app waiting for Vo.Bo
+1fca20d8be05ab21a583ba3528830425617f42ab 3d010c6521c817f8ae31837b2f1b511ca76509d9 Lalitus <tallitosan@gmail.com> 1547793085 -0600	commit: adding location maps
+3d010c6521c817f8ae31837b2f1b511ca76509d9 c5ff5960be58d35467c732b8fa6e1ca27fe96d96 Lalitus <tallitosan@gmail.com> 1550839966 -0600	pull: Fast-forward
+c5ff5960be58d35467c732b8fa6e1ca27fe96d96 168f56ecd52bf15bde50fab61b3275829c92b013 Lalitus <tallitosan@gmail.com> 1550841542 -0600	commit: sms home test
+168f56ecd52bf15bde50fab61b3275829c92b013 fb090626953bd8042cc134d6b1b7175b4d3ccd2a Lalitus <tallitosan@gmail.com> 1551945101 -0600	commit: change footer
+fb090626953bd8042cc134d6b1b7175b4d3ccd2a d8d90fc2372b3fd1a45fae7962210c3d8309c764 Lalitus <tallitosan@gmail.com> 1551945134 -0600	pull: Merge made by the 'recursive' strategy.
+d8d90fc2372b3fd1a45fae7962210c3d8309c764 db87b2d6fe5cf98386a3c2ec113bfbc944195637 Lalitus <tallitosan@gmail.com> 1567406036 -0500	commit: footer fixed
+db87b2d6fe5cf98386a3c2ec113bfbc944195637 31797fed987fb928ce488be50c43bca89df34f9e Lalitus <tallitosan@gmail.com> 1567480048 -0500	commit: added fontawesome link to work without npm
