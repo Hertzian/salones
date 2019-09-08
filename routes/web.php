@@ -67,16 +67,7 @@ Route::prefix('admin')->group(function() {
     Route::post('/open', 'AdminController@open');
     Route::post('/close', 'AdminController@close');
     Route::post('/send', 'AdminController@send');
-    // Twilio credentials
-    // TWILIO_ACCOUNT_SID=AC9c4a52b48b77f590f43fbb40ed3f7d7f
-    // TWILIO_AUTH_TOKEN=756a82ce5d9d333cd86322f4b66b4ec9
-    // 'from' => '+15005550006',//test phone
-
-    // live test credentials
-    // TWILIO_ACCOUNT_SID=ACe014330bb1e98f5380d1b14e2fe350ed
-    // TWILIO_AUTH_TOKEN=d47ab45dd40549ee731a2c9076d21f0e
-    // 'from' => '+13343199816',//phone
-
+    
 });
 
 Route::prefix('user')->group(function(){
